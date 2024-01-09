@@ -1,0 +1,2 @@
+yare start
+需要安装NODE.JS和yare
